@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshahryarsaeed&label=Profile%20views&color=0e75b6&style=flat" alt="mshahryarsaeed" /> </p>
 
-- 🌱 I’m currently learning **React js and Backend Development**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **react,JavaScript**
+- 💬 Ask me about **react,JavaScript,Express js,MongoDB**
 
 - 📫 How to reach me **shahryarsaeed06@gmail.com**
 
