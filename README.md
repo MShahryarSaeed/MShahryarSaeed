@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mshahryarsaeed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mshahryarsaeed1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad shahryar saeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad shahryar saeed" height="30" width="40" /></a>
-<a href="https://fb.com/محمّد شہریار سعید" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="محمّد شہریار سعید" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/muhammad shahryar saeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad shahryar saeed" height="30" width="40" /></a>
+  <a href="https://fb.com/محمّد شہریار سعید" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="محمّد شہریار سعید" height="30" width="40" /></a>
 <a href="https://instagram.com/ch_shahryar_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch_shahryar_01" height="30" width="40" /></a>
+<a href="https://twitter.com/mshahryarsaeed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mshahryarsaeed1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
