@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahryar Saeed</h1>
-<h3 align="center">A passionate Frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN STACK developer from Pakistan</h3>
 
 <img align="right" alt="coding gif" width="400px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
